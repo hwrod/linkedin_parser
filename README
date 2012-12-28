@@ -1,0 +1,5 @@
+LinkedIn Applicant Parser
+
+Extracts personal information for use by HR departments/employers wanting to get basic applicant data from LinkedIn pages.
+
+If you have a URL list of applicants on LinkedIn, you can use something like curl or DownloadThemAll to download all the URLs locally, then use this tool to parse the files.
